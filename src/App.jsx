@@ -1,10 +1,14 @@
 import MiniTrafficLight from "./component/MiniTrafficLight"
+// import ShoppinCard from "./component/ShoppingCard"
+import TemperaturePractice from "./component/TemperaturePractice"
 
 function App() {
 
 
   return (
-   <MiniTrafficLight />
+  //  <ShoppinCard />
+  // <MiniTrafficLight />
+  <TemperaturePractice />
   )
 }
 
